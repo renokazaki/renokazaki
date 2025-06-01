@@ -55,7 +55,6 @@
   <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renokazaki&layout=compact&theme=dracula" />
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renokazaki&theme=blueberry)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=renokazaki)](https://github.com/renokazaki/github-profile-trophy)
