@@ -60,3 +60,21 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=renokazaki)](https://github.com/renokazaki/github-profile-trophy)
 
 
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/renokazaki?pet-id=622115045510199021"
+    width="600"
+    height="150"
+  />
+</a>
+  
+  
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/renokazaki"
+  width="600"
+  height="300"
+/>
+</a>
+
