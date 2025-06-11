@@ -8,12 +8,15 @@
 
 
 
-### Blogs posts
+## Recently blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="/https://zenn.dev/ren21/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://zenn.dev/ren21/feed" height="30" width="40" /></a>
+</p>
   
   
 
