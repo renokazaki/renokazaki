@@ -1,26 +1,23 @@
-<h1 align="left">Introduction</h1>
-
-###
-
-<p align="left">I am Ren Okazaki.</p>
-<p align="left">My portfolio site (https://my-website-space-version.vercel.app/)</p>
-<p align="left">Zenn (https://zenn.dev/ren21)</p>
+<h1 align="center">Hi 👋, I'm Ren Okazaki</h1>
 
 
+- 👨‍💻 My Portfolio Site [https://my-website-space-version.vercel.app](https://my-website-space-version.vercel.app)
 
+- 📝 I regularly write articles on [https://zenn.dev/ren21](https://zenn.dev/ren21)
+
+
+
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 
   
   
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=renokazaki&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/renokazaki"
-  width="600"
-  height="300"
-/>
-</a>
+
 
 
 
@@ -62,6 +59,15 @@
 
 <p align="left"></p>
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=renokazaki&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/renokazaki"
+  width="600"
+  height="300"
+/>
+</a>
+
+
 ###
 
 <h1 align="left">About me</h1>
@@ -72,14 +78,6 @@
   <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renokazaki&layout=compact&theme=dracula" />
 
 
-<p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=renokazaki&show_icons=true&locale=en&layout=compact"/></p>
 
-<!-- BLOG-POST-LIST:START -->
-- 【Vercel】デプロイリージョンを日本に変更したら動作が早くなるかも(https://zenn.dev/ren21/articles/276b3cd6574e96)
--  Next.jsプロジェクトにCIを実装したので備忘録(https://zenn.dev/ren21/articles/bba14870f89888)
--  Githubで動物飼いたくないですか？(https://zenn.dev/ren21/articles/5f76029741b3e9)
-- 【超簡単!】Next.jsにClerkのゲストログイン機能を5分で実装する(https://zenn.dev/ren21/articles/3ded98f7fc9fbd)
--  bunx コマンドのエラーについて解決したので共有(https://zenn.dev/ren21/articles/0597c9d919b816)
-<!-- BLOG-POST-LIST:END -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=renokazaki)](https://github.com/renokazaki/github-profile-trophy)
