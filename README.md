@@ -18,17 +18,7 @@
 - [bunx コマンドのエラーについて解決したので共有](https://zenn.dev/ren21/articles/0597c9d919b816)
 - [【備忘録】Next.jsとHono.jsのmonorepo構成でパラメータ送受信エラーに遭遇](https://zenn.dev/ren21/articles/840b465dcca26f)
 <!-- BLOG-POST-LIST:END -->
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="/https://zenn.dev/ren21/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://zenn.dev/ren21/feed" height="30" width="40" /></a>
-</p>
   
-  
-
-
-
 
 
 ###
