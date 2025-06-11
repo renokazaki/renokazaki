@@ -75,7 +75,11 @@
 <p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=renokazaki&show_icons=true&locale=en&layout=compact"/></p>
 
 <!-- BLOG-POST-LIST:START -->
-- [非同期処理に疲れた方に、ReactQueryの処方箋](https://zenn.dev/ren21/articles/react-query-prescription)
+- 【Vercel】デプロイリージョンを日本に変更したら動作が早くなるかも(https://zenn.dev/ren21/articles/276b3cd6574e96)
+-  Next.jsプロジェクトにCIを実装したので備忘録(https://zenn.dev/ren21/articles/bba14870f89888)
+-  Githubで動物飼いたくないですか？(https://zenn.dev/ren21/articles/5f76029741b3e9)
+- 【超簡単!】Next.jsにClerkのゲストログイン機能を5分で実装する(https://zenn.dev/ren21/articles/3ded98f7fc9fbd)
+-  bunx コマンドのエラーについて解決したので共有(https://zenn.dev/ren21/articles/0597c9d919b816)
 <!-- BLOG-POST-LIST:END -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=renokazaki)](https://github.com/renokazaki/github-profile-trophy)
