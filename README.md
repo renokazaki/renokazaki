@@ -10,18 +10,15 @@
 
 ## Recently blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [test](https://zenn.dev/ren21/articles/279d2ba4f52f5b)
+- [【Vercel】デプロイリージョンを日本に変更したら動作が早くなるかも](https://zenn.dev/ren21/articles/276b3cd6574e96)
+- [Next.jsプロジェクトにCIを実装したので備忘録](https://zenn.dev/ren21/articles/bba14870f89888)
+- [Githubで動物飼いたくないですか？](https://zenn.dev/ren21/articles/5f76029741b3e9)
+- [【超簡単!】Next.jsにClerkのゲストログイン機能を5分で実装する](https://zenn.dev/ren21/articles/3ded98f7fc9fbd)
+- [bunx コマンドのエラーについて解決したので共有](https://zenn.dev/ren21/articles/0597c9d919b816)
+- [【備忘録】Next.jsとHono.jsのmonorepo構成でパラメータ送受信エラーに遭遇](https://zenn.dev/ren21/articles/840b465dcca26f)
 <!-- BLOG-POST-LIST:END -->
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="/https://zenn.dev/ren21/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://zenn.dev/ren21/feed" height="30" width="40" /></a>
-</p>
   
-  
-
-
-
 
 
 ###
