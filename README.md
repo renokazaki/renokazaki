@@ -72,6 +72,10 @@
   <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renokazaki&layout=compact&theme=dracula" />
 
 
+<p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=renokazaki&show_icons=true&locale=en&layout=compact"/></p>
 
+<!-- BLOG-POST-LIST:START -->
+- [非同期処理に疲れた方に、ReactQueryの処方箋](https://zenn.dev/ren21/articles/react-query-prescription)
+<!-- BLOG-POST-LIST:END -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=renokazaki)](https://github.com/renokazaki/github-profile-trophy)
