@@ -10,6 +10,7 @@
 
 ## Recently blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Next.jsにVitest導入したので備忘も兼ねて手順をまとめる](https://zenn.dev/ren21/articles/dd43162606f4c1)
 - [【Vercel】デプロイリージョンを日本に変更したら動作が早くなるかも](https://zenn.dev/ren21/articles/276b3cd6574e96)
 - [Next.jsプロジェクトにCIを実装したので備忘録](https://zenn.dev/ren21/articles/bba14870f89888)
 - [Githubで動物飼いたくないですか？](https://zenn.dev/ren21/articles/5f76029741b3e9)
