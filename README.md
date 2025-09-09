@@ -9,13 +9,13 @@
 
 ## Recently blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [ReactやNext.jsでのステート管理ライブラリの比較](https://zenn.dev/ren21/articles/baa6271bfbfcd7)
+- [ReactやNext.jsでのAPIフェッチ方法の比較](https://zenn.dev/ren21/articles/4a257f80f03ef5)
 - [Next.jsにVitest導入したので備忘も兼ねて手順をまとめる](https://zenn.dev/ren21/articles/dd43162606f4c1)
 - [【Vercel】デプロイリージョンを日本に変更したら動作が早くなるかも](https://zenn.dev/ren21/articles/276b3cd6574e96)
 - [Next.jsプロジェクトにCIを実装したので備忘録](https://zenn.dev/ren21/articles/bba14870f89888)
 - [Githubで動物飼いたくないですか？](https://zenn.dev/ren21/articles/5f76029741b3e9)
 - [【超簡単!】Next.jsにClerkのゲストログイン機能を5分で実装する](https://zenn.dev/ren21/articles/3ded98f7fc9fbd)
-- [bunx コマンドのエラーについて解決したので共有](https://zenn.dev/ren21/articles/0597c9d919b816)
-- [【備忘録】Next.jsとHono.jsのmonorepo構成でパラメータ送受信エラーに遭遇](https://zenn.dev/ren21/articles/840b465dcca26f)
 <!-- BLOG-POST-LIST:END -->
   
 
