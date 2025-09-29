@@ -2,7 +2,6 @@
 
 
 - 👨‍💻 My Portfolio Site [https://my-website-space-version.vercel.app](https://my-website-space-version.vercel.app)
-
 - 📝 I regularly write articles on [https://zenn.dev/ren21](https://zenn.dev/ren21)
 
 
