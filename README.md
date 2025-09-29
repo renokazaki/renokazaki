@@ -8,6 +8,8 @@
 
 ## Recently blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Prisma migrate時の「EPERM: operation not permitted」エラーについて](https://zenn.dev/ren21/articles/6dca6a5d59158b)
+- [Viteプロジェクトで「Property &#39;env&#39; does not exist on type &#39;ImportMeta&#39;」エラーについて](https://zenn.dev/ren21/articles/36b74a1fa270f5)
 - [ReactやNext.jsでのステート管理ライブラリの比較](https://zenn.dev/ren21/articles/baa6271bfbfcd7)
 - [ReactやNext.jsでのAPIフェッチ方法の比較](https://zenn.dev/ren21/articles/4a257f80f03ef5)
 - [Next.jsにVitest導入したので備忘も兼ねて手順をまとめる](https://zenn.dev/ren21/articles/dd43162606f4c1)
@@ -16,8 +18,6 @@
 - [Githubで動物飼いたくないですか？](https://zenn.dev/ren21/articles/5f76029741b3e9)
 - [【超簡単!】Next.jsにClerkのゲストログイン機能を5分で実装する](https://zenn.dev/ren21/articles/3ded98f7fc9fbd)
 - [bunx コマンドのエラーについて解決したので共有](https://zenn.dev/ren21/articles/0597c9d919b816)
-- [【備忘録】Next.jsとHono.jsのmonorepo構成でパラメータ送受信エラーに遭遇](https://zenn.dev/ren21/articles/840b465dcca26f)
-- [Vercel templateのHono.jsをローカル環境で動かしたい&lpar;vercelにデプロイまで&rpar;](https://zenn.dev/ren21/articles/e48dbe0ad3d343)
 <!-- BLOG-POST-LIST:END -->
   
 
