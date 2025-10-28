@@ -8,6 +8,7 @@
 
 ## Recently blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [【Prisma】upsertで冗長なコードとおさらば！レコードの存在チェック不要の便利な更新方法](https://zenn.dev/ren21/articles/92a5c5ccd12dc7)
 - [「EPERM: operation not permitted」エラーについて](https://zenn.dev/ren21/articles/6dca6a5d59158b)
 - [Viteプロジェクトで「Property &#39;env&#39; does not exist on type &#39;ImportMeta&#39;」エラーについて](https://zenn.dev/ren21/articles/36b74a1fa270f5)
 - [ReactやNext.jsでのステート管理ライブラリの比較](https://zenn.dev/ren21/articles/baa6271bfbfcd7)
