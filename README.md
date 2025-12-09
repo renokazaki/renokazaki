@@ -8,6 +8,9 @@
 
 ## Recently blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [モノレポ形式でGithub Actionsで動作するCIの実装をした](https://zenn.dev/ren21/articles/3af80e26dda901)
+- [Nextjsで使うerror.tsxとErrorBoundary.tsx](https://zenn.dev/ren21/articles/0d95868e941b20)
+- [【備忘録】今更ながらgit rebase -iを使用し感動した](https://zenn.dev/ren21/articles/241500d504b2f0)
 - [【Prisma】upsertで冗長なコードとおさらば！レコードの存在チェック不要の便利な更新方法](https://zenn.dev/ren21/articles/92a5c5ccd12dc7)
 - [「EPERM: operation not permitted」エラーについて](https://zenn.dev/ren21/articles/6dca6a5d59158b)
 - [Viteプロジェクトで「Property &#39;env&#39; does not exist on type &#39;ImportMeta&#39;」エラーについて](https://zenn.dev/ren21/articles/36b74a1fa270f5)
@@ -20,8 +23,6 @@
 - [【超簡単!】Next.jsにClerkのゲストログイン機能を5分で実装する](https://zenn.dev/ren21/articles/3ded98f7fc9fbd)
 - [bunx コマンドのエラーについて解決したので共有](https://zenn.dev/ren21/articles/0597c9d919b816)
 - [【備忘録】Next.jsとHono.jsのmonorepo構成でパラメータ送受信エラーに遭遇](https://zenn.dev/ren21/articles/840b465dcca26f)
-- [Vercel templateのHono.jsをローカル環境で動かしたい&lpar;vercelにデプロイまで&rpar;](https://zenn.dev/ren21/articles/e48dbe0ad3d343)
-- [IT未経験の新卒1年目がServiceNow 〜CSA・CAD・CIS-ITSMを取得した学習戦略と実務活用〜【ServiceNow】](https://zenn.dev/ren21/articles/1886213b225fc2)
 <!-- BLOG-POST-LIST:END -->
   
 
