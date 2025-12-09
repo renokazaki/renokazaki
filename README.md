@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋I'm Ren Okazaki</h1>
+<h1 align="center">Hi 👋I'm Ren Okazaki!</h1>
 
 
 - 👨‍💻 My Portfolio Site [https://my-portfolio-next-js-r3f.vercel.app/](https://my-portfolio-next-js-r3f.vercel.app/)
