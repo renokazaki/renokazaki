@@ -5,7 +5,6 @@
 - 📝 I regularly write articles on [https://zenn.dev/ren21](https://zenn.dev/ren21)
 
 
-
 ## Recently blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [モノレポ形式でGithub Actionsで動作するCIの実装をした](https://zenn.dev/ren21/articles/3af80e26dda901)
