@@ -7,8 +7,10 @@
 
 ## Recently blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [モノレポ形式でGithub Actionsで動作するCIの実装をした](https://zenn.dev/ren21/articles/3af80e26dda901)
-- [Nextjsで使うerror.tsxとErrorBoundary.tsx](https://zenn.dev/ren21/articles/0d95868e941b20)
+- [GitHub Copilot カスタムコマンドを使ってみた](https://zenn.dev/ren21/articles/de3da1fdaf71d4)
+- [チーム開発でcopilot-instructions.mdを導入してみたら、コードレビューの負担が減った](https://zenn.dev/ren21/articles/bd27b78a515db5)
+- [モノレポ形式のGithub Actionsで動作するCIの実装をした](https://zenn.dev/ren21/articles/3af80e26dda901)
+- [NextjsでのErrorBoundaryの使い分け（page単位とコンポーネント単位）](https://zenn.dev/ren21/articles/0d95868e941b20)
 - [【備忘録】今更ながらgit rebase -iを使用し感動した](https://zenn.dev/ren21/articles/241500d504b2f0)
 - [【Prisma】upsertで冗長なコードとおさらば！レコードの存在チェック不要の便利な更新方法](https://zenn.dev/ren21/articles/92a5c5ccd12dc7)
 - [「EPERM: operation not permitted」エラーについて](https://zenn.dev/ren21/articles/6dca6a5d59158b)
@@ -20,8 +22,6 @@
 - [Next.jsプロジェクトにCIを実装したので備忘録](https://zenn.dev/ren21/articles/bba14870f89888)
 - [Githubで動物飼いたくないですか？](https://zenn.dev/ren21/articles/5f76029741b3e9)
 - [【超簡単!】Next.jsにClerkのゲストログイン機能を5分で実装する](https://zenn.dev/ren21/articles/3ded98f7fc9fbd)
-- [bunx コマンドのエラーについて解決したので共有](https://zenn.dev/ren21/articles/0597c9d919b816)
-- [【備忘録】Next.jsとHono.jsのmonorepo構成でパラメータ送受信エラーに遭遇](https://zenn.dev/ren21/articles/840b465dcca26f)
 <!-- BLOG-POST-LIST:END -->
   
 
