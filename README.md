@@ -5,7 +5,7 @@
 - 📝 I regularly write articles on [https://zenn.dev/ren21](https://zenn.dev/ren21)
 
 
-## Recently blogs posts
+## Recently blogs posts(Zenn)
 <!-- BLOG-POST-LIST:START -->
 - [GitHub Copilot カスタムコマンドを使ってみた](https://zenn.dev/ren21/articles/de3da1fdaf71d4)
 - [チーム開発でcopilot-instructions.mdを導入してみたら、コードレビューの負担が減った](https://zenn.dev/ren21/articles/bd27b78a515db5)
@@ -24,6 +24,27 @@
 - [【超簡単!】Next.jsにClerkのゲストログイン機能を5分で実装する](https://zenn.dev/ren21/articles/3ded98f7fc9fbd)
 <!-- BLOG-POST-LIST:END -->
   
+
+
+
+###
+
+<h1 align="left">About me</h1>
+
+## 📊 GitHub Stats
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=renokazaki&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=renokazaki&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+
+
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=renokazaki&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/renokazaki"
+  width="600"
+  height="300"
+/>
+</a>
 
 ###
 
@@ -86,22 +107,3 @@
   <img width="12" />
 </div>
 
-
-###
-
-<h1 align="left">About me</h1>
-
-###
-
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=renokazaki&count_private=true&show_icons=true&theme=dracula" />
-  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renokazaki&layout=compact&theme=dracula" />
-
-
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=renokazaki&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/renokazaki"
-  width="600"
-  height="300"
-/>
-</a>
