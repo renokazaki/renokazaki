@@ -43,7 +43,7 @@
 
 ### ⚙️ **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,python,go,ruby" />
 
 </td>
 <td width="50%" align="center" valign="top">
