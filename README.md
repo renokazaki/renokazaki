@@ -43,7 +43,7 @@
 
 ### ⚙️ **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,python,go,ruby" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,ruby,rails,python,go" />
 
 </td>
 <td width="50%" align="center" valign="top">
@@ -60,7 +60,7 @@
 </tr>
 </table>
 
-**Other:** tRPC · Hono · Zod · TanStack Query · Material-UI · Mantine · Shadcn/UI · Chart.js · Cursor · Claude Code · GitHub Copilot · Biome · ESLint · Prettier · Vitest · Jest · ServiceNow
+**Other:** tRPC · Hono · Zod · TanStack Query · Material-UI · Mantine-UI · Shadcn-UI · Chart.js · Cursor · Claude Code · GitHub Copilot · Biome · ESLint · Prettier · Vitest · Jest · ServiceNow
 
 ## 📊 **GitHub Analytics**
 
