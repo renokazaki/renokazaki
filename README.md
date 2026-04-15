@@ -54,7 +54,7 @@
 
 ### 🔧 **Dev Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vite,bun,npm" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vite,bun,npm,yarn,pnpm" />
 
 </td>
 </tr>
