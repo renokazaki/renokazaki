@@ -12,15 +12,16 @@
 <table>
 <tr>
 <td width="200" align="center">
+LIKE😃
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts" width="150" height="50" alt="Tech" />
 </td>
 <td width="500" align="left">
 
 ### 👋 **Hi, I'm Ren Okazaki!**
 
-🚀 **Full-Stack Developer** specializing in Next.js / React / TypeScript  
+🚀 **Full-Stack Developer** Especially I like Next.js / React / TypeScript  
 🌍 **Location:** Japan 🇯🇵  
-💼 **Focus:** Building web applications  
+💼 **Focus:** Develop web applications  
 🤖 **Current:** Leading AI agent dashboard development  
 📝 **Blog:** [Zenn](https://zenn.dev/ren21)  
 🌐 **Portfolio:** [my-portfolio-next-js-r3f.vercel.app](https://my-portfolio-next-js-r3f.vercel.app/)
