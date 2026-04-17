@@ -19,7 +19,7 @@ LIKE😃
 
 ### 👋 **Hi, I'm Ren Okazaki!**
 
-🚀 **Full-Stack Developer** Especially I like Next.js / React / TypeScript  
+🚀 **Full-Stack Developer** Especially, I like Next.js / React / TypeScript  
 🌍 **Location:** Japan 🇯🇵  
 💼 **Focus:** Develop web applications  
 🤖 **Current:** Leading AI agent dashboard development  
