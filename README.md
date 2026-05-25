@@ -82,6 +82,7 @@ LIKE😃
 ## 📝 **Recent Blog Posts (Zenn)**
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code の見た目をカスタマイズしてみた](https://zenn.dev/ren21/articles/e5eb47c2789b0a)
 - [GitHub Copilot カスタムコマンドを使ってみた](https://zenn.dev/ren21/articles/de3da1fdaf71d4)
 - [チーム開発でcopilot-instructions.mdを導入してみたら、コードレビューの負担が減った](https://zenn.dev/ren21/articles/bd27b78a515db5)
 - [モノレポ形式のGithub Actionsで動作するCIの実装をした](https://zenn.dev/ren21/articles/3af80e26dda901)
@@ -96,7 +97,6 @@ LIKE😃
 - [【超簡単!】Next.jsにClerkのゲストログイン機能を5分で実装する](https://zenn.dev/ren21/articles/3ded98f7fc9fbd)
 - [bunx コマンドのエラーについて解決したので共有](https://zenn.dev/ren21/articles/0597c9d919b816)
 - [【備忘録】Next.jsとHono.jsのmonorepo構成でパラメータ送受信エラーに遭遇](https://zenn.dev/ren21/articles/840b465dcca26f)
-- [Vercel templateのHono.jsをローカル環境で動かしたい&lpar;vercelにデプロイまで&rpar;](https://zenn.dev/ren21/articles/e48dbe0ad3d343)
 <!-- BLOG-POST-LIST:END -->
 
 
