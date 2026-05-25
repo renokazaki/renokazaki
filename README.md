@@ -40,7 +40,7 @@ LIKE😃
 
 ### 🖥️ **Frontend**
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,angular,tailwindcss,threejs,html,css,sass" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwindcss,threejs,html,css,sass" />
 
 ### ⚙️ **Backend**
 
