@@ -44,7 +44,7 @@ LIKE😃
 
 ### ⚙️ **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,ruby,rails,python,go" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,ruby,rails,python" />
 
 </td>
 <td width="50%" align="center" valign="top">
